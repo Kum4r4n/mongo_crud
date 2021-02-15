@@ -1,0 +1,5 @@
+{
+    "mongoDbUrl" : "mongodb://kum4r4n:kum4r4n@ds-cluster-shard-00-00.4ykvo.mongodb.net:27017,ds-cluster-shard-00-01.4ykvo.mongodb.net:27017,ds-cluster-shard-00-02.4ykvo.mongodb.net:27017/<dbname>?ssl=true&replicaSet=atlas-7vzl8y-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "domesticDB" : "Domestic_transport",
+    "transport_collection" : "Transport"
+}
